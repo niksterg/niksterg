@@ -29,9 +29,9 @@ He is the current Director of the Laboratory of Astronomy at the Department of P
   
 He served as an associate editor for the journal ["General Relativity and Gravitation"](http://link.springer.com/journal/10714) (Springer).
 
-![Group photo 2025](/images/2025group.jpg)
+![Group photo 2025]({{ site.baseurl }}/images/2025group.jpg)
 
 <div style="text-align: center;">
-  <img src="/images/FSbook.jpg" alt="Book" style="width:50%;">
+  <img src="{{ site.baseurl }}/images/FSbook.jpg" alt="Book" style="width:50%;">
 </div>
 
