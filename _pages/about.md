@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-[Full CV](http://www.astro.auth.gr/~niksterg/Stergioulas-cv.pdf)  [Research](http://www.astro.auth.gr/~niksterg/research.html)  [Books](http://www.cambridge.org/us/academic/subjects/physics/astrophysics/rotating-relativistic-stars)  [Teaching](http://www.astro.auth.gr/~niksterg/teaching.html)  [Outreach](http://www.astro.auth.gr/~niksterg/popular-talks.html)  [ORCID](http://orcid.org/0000-0002-5490-5302)  [SCOPUS](https://www.scopus.com/authid/detail.uri?origin=resultslist&authorId=55884574400&zone=)  [ResearchGate](https://www.researchgate.net/profile/Nikolaos_Stergioulas)
-
-[Publications](http://ui.adsabs.harvard.edu/#search/q=author%3A%22stergioulas%2C%20n%22&sort=date%20desc%2C%20bibcode%20desc)  [M.Sc. Theses](http://www.astro.auth.gr/n/?p=msc_theses)  [B.Sc. Theses](https://www.astro.auth.gr/n/?p=bsc_theses)  [Gravitational Waves Group](https://niksterg.github.io/gw-group)
+[Full CV](http://www.astro.auth.gr/~niksterg/Stergioulas-cv.pdf)  [Research](http://www.astro.auth.gr/~niksterg/research.html)  [Books](http://www.cambridge.org/us/academic/subjects/physics/astrophysics/rotating-relativistic-stars)  [Teaching](http://www.astro.auth.gr/~niksterg/teaching.html)  [Outreach](http://www.astro.auth.gr/~niksterg/popular-talks.html) [Publications](http://ui.adsabs.harvard.edu/#search/q=author%3A%22stergioulas%2C%20n%22&sort=date%20desc%2C%20bibcode%20desc)  [M.Sc. Theses](http://www.astro.auth.gr/n/?p=msc_theses)  [B.Sc. Theses](https://www.astro.auth.gr/n/?p=bsc_theses)  [Gravitational Waves Group](https://niksterg.github.io/gw-group)
 
 
 Nikolaos Stergioulas is known for his contributions to the study of the equilibrium and stability of rotating relativistic stars, of relativistic accretion disks and of strongly-magnetized neutron stars (magnetars). He received his Ph.D. from the University of Wisconsin-Milwaukee, under the supervision of John L. Friedman, in 1996. He was a post-doctoral researcher at the Albert-Einstein-Institute, Potsdam (MPA for Gravitational Physics, 1998-1999) before joining the Department of Physics at the Aristotle University of Thessaloniki as a faculty member.  
@@ -30,3 +28,10 @@ Currently, he is an elected member of the [Board of the Gravitational Physics Di
 He is the current Director of the Laboratory of Astronomy at the Department of Physics, Aristotle University of Thessaloniki.  
   
 He served as an associate editor for the journal ["General Relativity and Gravitation"](http://link.springer.com/journal/10714) (Springer).
+
+![Group photo 2025](../images/2025group.jpg)
+
+<div style="text-align: center;">
+  <img src="../images/FSbook.jpg" alt="Book" style="width:50%;">
+</div>
+
