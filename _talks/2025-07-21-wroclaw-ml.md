@@ -1,7 +1,7 @@
 ---
 title: "LEVERAGING MACHINE LEARNING FOR GRAVITATIONAL WAVE DISCOVERIES: From Binary Black Hole Mergers to Probing High-Density Nuclear Matter"
 collection: talks
-type: "Conference Talk"
+type: "Plenary Talk"
 permalink: /talks/2025-07-21-wroclaw-ml
 venue: "11th Conference of the Polish Society on Relativity"
 date: 2025-07-21
